@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center" width="25%">
-    <img alt="" width="300" src="https://github.com/user-attachments/assets/13452894-aded-4f2b-96e9-b22974809423" alt=""></img>
+    <img alt="" width="300" src="https://github.com/user-attachments/assets/f83dbc44-3110-4df2-8428-c76e582cc541" alt=""></img>
     </td>
     <td colspan="4" align="center" width="75%">
     <h2 style="border-bottom: none;">
