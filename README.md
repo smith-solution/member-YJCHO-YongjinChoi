@@ -27,10 +27,10 @@
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="3"><a href="https://www.instagram.com/seongung64">🚩 Instagram : @seongung64 </a></td>
     <td colspan="3"><a href="https://www.linkedin.com/in/sungwoong-yun-58067b337">🧲 LinkedIn: YUNSUNGWOONG</a></td>
-  </tr>
+  </tr> -->
     <tr>
     <td colspan="3"><a href="https://www.instagram.com/smith_solution_">🤝 Business : @smith_solution_</a></td>
     <td colspan="3"><a href="source/plugins/languages/README.md">📧 Gmail : 2170004487b@gmail.com </a></td>
@@ -494,7 +494,7 @@
   <tr>
   <td colspan="6" align="left" width="360">
     <h3>📜 Paper </h3>
-    ▶️  Agribot: A Smart Farm Automated Crop Process Solution Utilizing webOS <a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12132421&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">[Link]</a><br>
+    ▶️ Coming Soon!<br>
     <h3>📚 Patent </h3>
     ▶️ Coming Soon!<br>
   </td>
@@ -522,13 +522,16 @@
   </td>
   <td colspan="3" align="left">
     <h3>💻 Blog </h3>
-    <a href="https://jacksmith-c.github.io/" target="_blank"><img src="https://img.shields.io/badge/GITHUB BLOG: My CodingLog-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a><br>
-    <a href="https://blog.naver.com/yhon89" target="_blank"><img src="https://img.shields.io/badge/Naver: My Diary Blog-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a><br> 
-    <a href="https://blog.naver.com/yhon89e" target="_blank"><img src="https://img.shields.io/badge/Naver: My Learning Blog-E95420?style=for-the-badge&logo=MongoDB&logoColor=white"/></a><br> 
-    <a href="https://velog.io/@2170004487z/posts" target="_blank"><img src="https://img.shields.io/badge/velog: My Embedded Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a><br>
-    <a href="https://blex.me/@2170004487z" target="_blank"><img src="https://img.shields.io/badge/Blex: My CS Blog-c110cc?style=for-the-badge&logo=buefy&logoColor=white"/></a><br>
-    <a href="https://steemit.com/@yunsungwoong" target="_blank"><img src="https://img.shields.io/badge/Steemit: My Financial Blog-33cf98?style=for-the-badge&logo=velog&logoColor=white"/></a><br>
-    <a href="https://jack-channel-python.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory: My Python Blog-f1eb6e?style=for-the-badge&logo=PYTHON&logoColor=black"/></a><br>
+    ▶️ Coming Soon!<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
   </td>
   </tr>
 
