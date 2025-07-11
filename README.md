@@ -27,11 +27,7 @@
       <h3><a href="/README.md#-plugins">📞 연락처 </a></h3>
     </th>
   </tr>
-  <!-- <tr>
-    <td colspan="3"><a href="https://www.instagram.com/seongung64">🚩 Instagram : @seongung64 </a></td>
-    <td colspan="3"><a href="https://www.linkedin.com/in/sungwoong-yun-58067b337">🧲 LinkedIn: YUNSUNGWOONG</a></td>
-  </tr> -->
-    <tr>
+  <tr>
     <td colspan="3"><a href="https://www.instagram.com/smith_solution_">🤝 Business : @smith_solution_</a></td>
     <td colspan="3"><a href="source/plugins/languages/README.md">📧 Gmail : 2170004487b@gmail.com </a></td>
   </tr>
